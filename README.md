@@ -1,6 +1,6 @@
 # Tun2TAP for Android  
 
-A tool for Android that helps with network tunneling.  
+Premium Version Unlocked - No Ads
 
 ## Download  
 
